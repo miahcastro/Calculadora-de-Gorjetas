@@ -1,0 +1,19 @@
+.container {
+    background-color: #FCF4F1;
+    margin-top: 5px;
+    padding-bottom: 10px;
+    
+}
+
+.titlebar {
+    margin-top: 50px;
+    margin-bottom: 10px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 0px;
+}
+
+.input {
+    margin-left: 50px;
+    margin-bottom: 5px;
+}
